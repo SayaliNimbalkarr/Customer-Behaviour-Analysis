@@ -6,8 +6,6 @@ This project analyzes customer shopping behaviour using Python, PostgreSQL, and 
 
 ## Dataset
 
-## Dataset
-
 The dataset contains customer shopping transaction data, including customer demographics, product information, purchase details, payment methods, shipping preferences, and customer engagement metrics. The data was used to analyze purchasing patterns and generate business insights.
 
 ## Tools Used
