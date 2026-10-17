@@ -83,3 +83,6 @@ The analysis provided insights into:
 ## Conclusion
 
 This project demonstrates a complete data analysis workflow, from data preparation and SQL analysis to dashboard creation. It highlights how data can be transformed into meaningful business insights through analytics and visualization.
+
+<img width="975" height="566" alt="image" src="https://github.com/user-attachments/assets/62470fbf-217d-465c-b6ec-9b28f102106c" />
+
